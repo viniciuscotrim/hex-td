@@ -1,0 +1,19 @@
+{
+  "hp0": 22,
+  "rHP": 1.11,
+  "kHP": 0.15,
+  "pHP": 10,
+  "dano0": 5,
+  "rDano": 1.06,
+  "kDano": 0.15,
+  "pDano": 10,
+  "gold0": 4,
+  "goldA": 0.42,
+  "statBonuses": [0.50, 0.50, 0.50, 0.50, 0.50],
+  "upgradeCostGrowth": 1.5,
+  "upgradeEffectStep": 0.25,
+  "elementalAdvantage": 2.0,
+  "elementalNeutral": 1.0,
+  "elementalDisadvantage": 0.5,
+  "rogueVariance": 0.02
+}
